@@ -2,9 +2,9 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'brawl.stars.bodrio', // <--- REEMPLAZA ESTO POR LA IP DE TU SERVER
-        port: 67676,                // Puerto predeterminado de Minecraft
-        username: 'Raboot_356',    // Nombre genérico del bot/NPC dentro del juego
+        host: 'ospro20.aternos.me', // <--- REEMPLAZA ESTO POR LA IP DE TU SERVER
+        port: 62329,                // Puerto predeterminado de Minecraft
+        username: 'pro2.0',    // Nombre genérico del bot/NPC dentro del juego
         version: false              // Autodetecta la versión exacta del servidor (1.8 a 1.21+)
     });
 
